@@ -34,7 +34,9 @@ void Trinity::Banner::Show(char const* applicationName, void(*log)(char const* t
     log("                   /$$  \\ $$                                                               ");
     log("                  |  $$$$$$/                                                                ");
     log("                   \\______/                                                                ");
-    log("http://TrinityCore.org \n                                                                   ");
+	log("http://TrinityCore.org \n                                                                   ");
+	log(" qq:171497767 幻想魔兽专用端                                                                ");
+	log(" qq:171497767 幻想魔兽专用端                                                                ");
 
     if (logExtraInfo)
         logExtraInfo();
